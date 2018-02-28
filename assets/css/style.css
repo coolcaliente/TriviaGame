@@ -1,0 +1,24 @@
+body {
+    font-family: 'Muli', sans-serif;
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+}
+
+h2 {
+    font-size: .85rem;
+    letter-spacing: 1px;
+    color:grey;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-weight: 800;
+    font-size: 1.05rem;
+    margin-top: 20px;
+}
+
+input {
+    margin: 0 10px 50px 30px;
+}
